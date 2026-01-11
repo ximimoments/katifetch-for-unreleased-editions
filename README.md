@@ -3,11 +3,12 @@
 # Katifetch website official:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cc572ee-242f-4cdf-8212-78e8a87d6b73" />
+https://github.com/ximimoments/katifetch
 
 # Katifetch screenshots collection
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7300b03b-62fb-49c6-a8dc-cb66bff4e9eb" />
-
+https://github.com/ximimoments/katifetchscreenshots
 
 you can download the unreleases version or edition of katifetch here :3
 
