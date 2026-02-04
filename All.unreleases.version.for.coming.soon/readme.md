@@ -12,3 +12,6 @@ Not yet but the os screeenshot in case
 katifetch on ZealOS
 Not yet but the os screeenshot in case
 <img width="1090" height="905" alt="image" src="https://github.com/user-attachments/assets/8b92f808-7e2b-4ca8-baf0-0e3ab7b112bf" />
+
+Katifetch On Haiku, no screenshot for now, wait.
+https://github.com/ximimoments/katifetch-for-unreleased-editions/releases/download/unreleases/katifetchforhaikuos.in.development.zip
