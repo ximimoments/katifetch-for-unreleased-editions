@@ -27,5 +27,6 @@ Not yet but the os screeenshot in case
 https://github.com/ximimoments/katifetch-for-unreleased-editions/raw/refs/heads/main/All.unreleases.version.for.coming.soon/katifetch-zealos.zip
 <img width="1090" height="905" alt="image" src="https://github.com/user-attachments/assets/8b92f808-7e2b-4ca8-baf0-0e3ab7b112bf" />
 
-Katifetch On Haiku, no screenshot for now, wait.
+Katifetch On Haiku
 https://github.com/ximimoments/katifetch-for-unreleased-editions/releases/download/unreleases/katifetchforhaikuos.in.development.zip
+<img width="1920" height="1080" alt="Screenshot_2026-02-04_15-09-32" src="https://github.com/user-attachments/assets/443fa1be-4a54-4452-824c-dcc21bcff597" />
