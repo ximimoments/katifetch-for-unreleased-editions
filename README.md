@@ -30,3 +30,4 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions/raw/refs/heads/
 Katifetch On Haiku
 https://github.com/ximimoments/katifetch-for-unreleased-editions/releases/download/unreleases/katifetchforhaikuos.in.development.zip
 <img width="1920" height="1080" alt="Screenshot_2026-02-04_15-09-32" src="https://github.com/user-attachments/assets/443fa1be-4a54-4452-824c-dcc21bcff597" />
+> fun fact, i make the version of haiku bcz is the favorite operating system of action retro, and maybe you need a neofetch alt for haiku
