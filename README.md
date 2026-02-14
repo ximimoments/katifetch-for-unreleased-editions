@@ -30,7 +30,7 @@ https://github.com/ximimoments/katifetch-for-unreleased-editions/raw/refs/heads/
 Katifetch On Haiku
 https://github.com/ximimoments/katifetch-for-unreleased-editions/releases/download/unreleases/katifetchforhaikuos.in.development.zip
 <img width="1920" height="1080" alt="Screenshot_2026-02-04_15-09-32" src="https://github.com/user-attachments/assets/443fa1be-4a54-4452-824c-dcc21bcff597" />
-# You need on haiku,
-## konsole (kde plasma terminal, yea, is compatible with haiku. And better for dark mode)
+# App for the normal, bcz is white the logo
+konsole (kde plasma terminal, yea, is compatible with haiku. And better for dark mode or mini mode of katifetch for haiku)
 
 > fun fact, i make the version of haiku bcz is the favorite operating system of action retro, and maybe you need a neofetch alt for haiku
